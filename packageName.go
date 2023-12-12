@@ -5,5 +5,5 @@ import (
 )
 
 func Enable() {
-  fmt.Println("adampietrasiak!")
+  fmt.Println("NOTadampietrasiak!")
 }
